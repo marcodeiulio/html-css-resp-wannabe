@@ -3,7 +3,6 @@
 	/* Generics */
 	
 	body {
-		color: red;
 		box-sizing: border-box;
 		margin: 0;
 		padding: 0;
@@ -17,13 +16,18 @@
 		width: 419px;
 		margin: 0;
 	}
-
+	
 	h3 {
 		margin: 0;
 	}
-
+	
 	/* #lezioni */
-
+	
+	#lezioni .row {
+		background-color: #f2f2cd;
+		
+	}
+	
 	#lezioni .row .left {
 		width: 100%;
 	}
