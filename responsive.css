@@ -45,7 +45,16 @@
 		height: 30%;
 	}
 
+	/* #Steps */
 	
+	#steps .row>.left,
+	#steps .row>.central,
+	#steps .row>.right {
+		float: none;
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+}
 
 
 
