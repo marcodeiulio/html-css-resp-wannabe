@@ -8,6 +8,10 @@
 		padding: 0;
 	}
 
+	img {
+		height: 100px;
+	}
+
 	.row {
 		float: none;
 		display: flex;
@@ -35,16 +39,6 @@
 		width: 100%;
 	}
 
-	#lezioni .left img {
-		width: 20%;
-		height: 20%;
-	}
-
-	#lezioni .right img {
-		width: 30%;
-		height: 30%;
-	}
-
 	/* #Steps */
 	
 	#steps .row>.left,
@@ -54,7 +48,9 @@
 		width: 100%;
 		display: flex;
 		flex-direction: column;
-}
+	}
+
+
 
 
 
