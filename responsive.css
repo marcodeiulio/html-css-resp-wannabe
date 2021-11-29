@@ -19,6 +19,11 @@
 		flex-wrap: wrap;
 		width: 419px;
 		margin: 0;
+		padding: 5px 0;
+	}
+
+	h1 {
+		margin: 10px auto;
 	}
 	
 	h3 {
@@ -50,7 +55,18 @@
 		flex-direction: column;
 	}
 
+	/* #Why */
 
+	#why .row>.first,
+	#why .row>.second,
+	#why .row>.third {
+		margin: 0;
+	}
+	
+	#why .row {
+		background-color: #f2f2cd;
+		
+	}
 
 
 
