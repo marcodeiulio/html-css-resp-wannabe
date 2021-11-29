@@ -18,6 +18,10 @@
 		margin: 0;
 	}
 
+	h3 {
+		margin: 0;
+	}
+
 	/* #lezioni */
 
 	#lezioni .row .left {
@@ -36,6 +40,8 @@
 		width: 30%;
 		height: 30%;
 	}
+
+	
 
 
 
