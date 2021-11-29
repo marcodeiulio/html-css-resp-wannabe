@@ -15,8 +15,15 @@
 		flex-wrap: wrap;
 	}
 
+	#lezioni .left img {
+		width: 20%;
+		height: 20%;
+	}
 
-
+	#lezioni .right img {
+		width: 30%;
+		height: 30%;
+	}
 
 
 
