@@ -1,6 +1,21 @@
 @media screen and (max-width: 419px) {
-	
+	body {
+		color: red;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		
+
 	}
+
+	.row {
+		float: none;
+		display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+	}
+
+
 
 
 
