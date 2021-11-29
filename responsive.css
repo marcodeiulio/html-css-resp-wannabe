@@ -35,7 +35,6 @@
 	
 	#lezioni .row {
 		background-color: #f2f2cd;
-		
 	}
 	
 	#lezioni .row .left {
@@ -54,6 +53,11 @@
 		width: 100%;
 		display: flex;
 		flex-direction: column;
+	}
+
+	#steps img {
+		width: 100px;
+		margin: auto;
 	}
 
 	/* #Why */
